@@ -3,7 +3,7 @@ Author: Giancarlo Klemm Camilo
 Simulator for a set of routers.
 Current functionalities:
 	- Shortest path from one router to the other
-	- dynamicly change the router structure
+	- dynamically change the router structure
 	- Statistics of sent packages.
 	- save/load router structure
 	- for all the commands, run the program and type 'help'.
